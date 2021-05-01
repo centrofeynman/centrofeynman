@@ -1,5 +1,5 @@
 <p align="left"><img width=15%" src="https://github.com/centrofeynman/centrofeynman/blob/main/lang.gif" alt="lang image here" /></p>
-<h1 align="center">Hola 👋, Somos el Centro de Estudios Richard Feynman</h1>
+<h1 align="center">Hola <img src="https://github.com/centrofeynman/centrofeynman/blob/main/giphy.gif" width="30px">, Somos el Centro de Estudios Richard Feynman</h1>
 <h3 align="center">Empresa dedicada a la capacitación y consultoría de profesionales y entidades. Y al desarrollo de proyectos de investigación en ciencias e ingeniería.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=centrofeynman&label=Profile%20views&color=0e75b6&style=flat" alt="centrofeynman" /> </p>
