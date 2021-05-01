@@ -1,4 +1,5 @@
-<p align="left"><img width=15%" src="https://github.com/centrofeynman/centrofeynman/blob/main/lang.gif" alt="lang image here" /></p>
+<img src="https://github.com/centrofeynman/centrofeynman/blob/main/cerf_gif.gif" />
+
 <h1 align="center">Hola <img src="https://github.com/centrofeynman/centrofeynman/blob/main/giphy.gif" width="30px">, Somos el Centro de Estudios Richard Feynman</h1>
 <h3 align="center">Empresa dedicada a la capacitación y consultoría de profesionales y entidades. Y al desarrollo de proyectos de investigación en ciencias e ingeniería.</h3>
 
